@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi there, I'm Rhuan Mendanha 👋
 
-<!--
-**Rhuan-Mendanha/Rhuan-Mendanha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student passionate about programming, UX/UI design, and continuous learning.  
+I love creating interactive projects and exploring new technologies!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Languages & Technologies
+
+- **Programming:** Java, JavaScript, Python, C, C#, HTML, CSS  
+- **Tools & Frameworks:** Git, GitHub, LWJGL (OpenGL), Discord bots
+
+---
+
+## 🚀 Featured Projects
+### Blocks Game 🟦
+A simple 3D block game built in Java using LWJGL 3.  
+The game starts with a cube directly in front of the camera so you can easily see it, with basic instructions displayed on the screen.  
+![Blocks Game Screenshot](3D_RGB_Block)
+
+### Music Player 🎵
+A simple music player built in JavaScript.  
+![Music Player Screenshot](Criafy_Screenshot)
+
+### Discord AFK Bot 🤖
+A bot for managing AFK statuses in Discord.  
+![Discord Bot Screenshot](Discord_Bot_Screenshot)
+
+### Algomon Game 🎮
+A college project using HTML & JS.  
+![Algomon Game Screenshot](Algomon_Screenshot)
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced JavaScript & Node.js  
+- OpenGL & Game Development with LWJGL  
+- UX/UI best practices  
+
+---
+
+## 📫 Connect with Me
+
+- [Instagram](https://www.instagram.com/rhuanmendwest)  
+- [Discord](https://discord.gg/AyZbePz2Qs)  
+- [GitHub](https://github.com/Rhuan-Mendanha)
+
+---
+
+> "Always learning, always growing." ✨
+
