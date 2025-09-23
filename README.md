@@ -5,10 +5,19 @@ I love creating interactive projects and exploring new technologies!
 
 ---
 
-## 🛠️ Languages & Technologies
+## 🌱 Currently Learning
 
-- **Programming:** Java, JavaScript, Python, C, C#, HTML, CSS  
-- **Tools & Frameworks:** Git, GitHub, LWJGL (OpenGL), Discord bots
+- Advanced JavaScript & Node.js  
+- OpenGL & Game Development with LWJGL  
+- UX/UI best practices  
+
+---
+
+## 📫 Connect with Me
+
+- [Instagram](https://www.instagram.com/rhuanmendwest)  
+- [Discord](https://discord.gg/AyZbePz2Qs)  
+- [GitHub](https://github.com/Rhuan-Mendanha)
 
 ---
 
@@ -30,22 +39,6 @@ A bot for managing AFK statuses in Discord.
 ### Algomon Game 🎮
 A college project using HTML & JS.  
 ![Algomon Game Screenshot](Algomon_Screenshot)
-
----
-
-## 🌱 Currently Learning
-
-- Advanced JavaScript & Node.js  
-- OpenGL & Game Development with LWJGL  
-- UX/UI best practices  
-
----
-
-## 📫 Connect with Me
-
-- [Instagram](https://www.instagram.com/rhuanmendwest)  
-- [Discord](https://discord.gg/AyZbePz2Qs)  
-- [GitHub](https://github.com/Rhuan-Mendanha)
 
 ---
 
