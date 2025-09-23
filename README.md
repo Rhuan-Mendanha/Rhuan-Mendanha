@@ -15,21 +15,25 @@ I love creating interactive projects and exploring new technologies!
 
 ## 🚀 Featured Projects
 
-### Blocks Game 🟦
+### Blocks Prototype 
 A simple 3D block game built in Java using LWJGL 3.  
 The game starts with a cube directly in front of the camera so you can easily see it, with basic instructions displayed on the screen.  
+
 ![Blocks Game Screenshot](assets/3D_RGB_Block.gif)
 
-### Music Player 🎵
+### Music Player 
 A simple music player built in JavaScript.  
+
 ![Music Player Screenshot](assets/Criafy_Screenshot.png)
 
-### Discord AFK Bot 🤖
+### Discord AFK Bot 
 A bot for managing AFK statuses in Discord.  
+
 ![Discord Bot Screenshot](assets/Discord_Bot_Screenshot.png)
 
-### Algomon Game 🎮
+### Algomon Game 
 A college project using HTML & JS.  
+
 ![Algomon Game Screenshot](assets/Algomon_Screenshot.png)
 
 ---
