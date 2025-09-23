@@ -1,4 +1,4 @@
-I'm Rhuan Mendanha
+## I'm Rhuan Mendanha
 
 Computer Science student passionate about programming, UX/UI design, and continuous learning.  
 I love creating interactive projects and exploring new technologies!
