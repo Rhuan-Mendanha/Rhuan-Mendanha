@@ -33,6 +33,7 @@ A college project using HTML & JS.
 - [Instagram](https://www.instagram.com/rhuanmendwest)  
 - [Discord](https://discord.gg/AyZbePz2Qs)  
 - [GitHub](https://github.com/Rhuan-Mendanha)
+- [LinkedIn](https://www.linkedin.com/in/rhuan-mendanha-99b932384/)
 
 ---
 
