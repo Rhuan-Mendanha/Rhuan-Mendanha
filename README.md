@@ -1,4 +1,4 @@
-## I'm Rhuan Mendanha
+## Rhuan Mendanha
 
 Computer Science student passionate about programming, UX/UI design, and continuous learning.  
 I love creating interactive projects and exploring new technologies!
@@ -16,8 +16,8 @@ I love creating interactive projects and exploring new technologies!
 ## 🚀 Featured Projects
 
 ### Blocks Prototype 
-A simple 3D block game built in Java using LWJGL 3.  
-The game starts with a cube directly in front of the camera so you can easily see it, with basic instructions displayed on the screen.  
+A simple 3D block built in Java using LWJGL 3.  
+Starts with a cube directly in front of the camera so you can easily see it, with basic instructions displayed on the screen.  
 
 ![Blocks Game Screenshot](assets/3D_RGB_Block.gif)
 
