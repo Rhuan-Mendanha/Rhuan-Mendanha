@@ -21,16 +21,6 @@ Starts with a cube directly in front of the camera so you can easily see it, wit
 
 ![Blocks Game Screenshot](assets/3D_RGB_Block.gif)
 
-### Music Player 
-A simple music player built in JavaScript.  
-
-![Music Player Screenshot](assets/Criafy_Screenshot.png)
-
-### Discord AFK Bot 
-A bot for managing AFK statuses in Discord.  
-
-![Discord Bot Screenshot](assets/Discord_Bot_Screenshot.png)
-
 ### Algomon Game 
 A college project using HTML & JS.  
 
