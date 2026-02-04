@@ -18,6 +18,7 @@ I love creating interactive projects and exploring new technologies!
 ### CriaFX Pro  
 A Music Player with visualizer and EQ + youtube API. 
 A UPGRADE from one of my projects called criafy.
+Live Demo: https://rhuan-mendanha.github.io/CriaFX-Pro/
 
 ![CriaFX Pro Screenshot](assets/CriaFX%20Pro.gif)
 
