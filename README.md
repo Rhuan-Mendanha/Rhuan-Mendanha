@@ -16,7 +16,7 @@ I love creating interactive projects and exploring new technologies!
 ## 🚀 Featured Projects
 
 ### CriaFX Pro  
-A Music Player with visualizer and EQ + youtube API 
+A Music Player with visualizer and EQ + youtube API. 
 A UPGRADE from one of my projects called criafy.
 
 ![CriaFX Pro Screenshot](assets/CriaFX%20Pro.gif)
